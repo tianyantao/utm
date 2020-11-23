@@ -1,0 +1,11 @@
+__pycache__
+.idea/
+/report
+.logs
+._test.html
+._prod.html
+/front/node_modules
+/front/dist/report
+/.idea
+/common/__pycache__
+/services/__pycache__
